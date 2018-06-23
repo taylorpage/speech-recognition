@@ -1,0 +1,24 @@
+{
+  "name": "speech-recognition",
+  "version": "1.0.0",
+  "description": "speech recognition module",
+  "main": "recog.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorpage/speech-recognition.git"
+  },
+  "author": "Taylor Page <jonathantaylorpage@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorpage/speech-recognition/issues"
+  },
+  "homepage": "https://github.com/taylorpage/speech-recognition#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.1.0"
+  }
+}
